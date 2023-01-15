@@ -15,13 +15,6 @@ https://baru-app.herokuapp.com/
 Most bars have created specialty cocktail menus but if you want a drink off menu, BarU is here to help. Search for some of the best bar drinks and order while at the restaurant.
 Once you have your drink you can create a post in your account where you can share the name of the drink, the bar you got it from and whether or not you liked it.
 
-## Contributors
-
-- Kayte McDonough: https://github.com/UseTheHill?tab=repositories
-- Diamond Lee: https://github.com/leediamo
-- Ellisa Issa: https://github.com/ellisaissa?tab=repositories
-- Nathan Northrop: https://github.com/Dracon75
-- Erick Michaelson: https://github.com/erickmichaelson
 
 ## Technologies Used
 
